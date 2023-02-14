@@ -5,7 +5,7 @@ import HomePage from '../views/HomePage.vue'
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
-    redirect: '/home'
+    redirect: '/details'
   },
   {
     path: '/home',
